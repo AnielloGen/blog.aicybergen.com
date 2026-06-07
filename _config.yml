@@ -1,0 +1,17 @@
+title: AiCyberGen Blog
+description: AI, Cybersecurity e Regolamentazione digitale in Europa
+baseurl: ""
+url: "https://blog.aicybergen.com"
+lang: it
+
+author:
+  name: AiCyberGen
+
+permalink: /:year/:month/:day/:title/
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
