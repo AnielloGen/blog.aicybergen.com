@@ -4,8 +4,8 @@ baseurl: ""
 url: "https://blog.aicybergen.com"
 lang: it
 
-author:
-  name: AiCyberGen
+author: AiCyberGen
+
 
 permalink: /:year/:month/:day/:title/
 
