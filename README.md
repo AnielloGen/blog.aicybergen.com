@@ -1,2 +1,2 @@
-# blog.aicybergen.com
-Blog su Intelligenza Artificiale, Cybersecurity, Economia dei dati, Compliance, Quadri regolatori
+# AiCyberGen Blog
+Blog su AI, Cybersecurity e Regolamentazione digitale in Europa.
