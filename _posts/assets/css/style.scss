@@ -1,0 +1,101 @@
+---
+---
+
+@import "minima";
+
+/* Colori principali */
+$brand-blue: #1a56a0;
+$brand-dark: #1a202c;
+$brand-gray: #4a5568;
+$brand-light: #f7f9fc;
+
+/* Header */
+.site-header {
+  background-color: $brand-dark;
+  border-top: 4px solid $brand-blue;
+  border-bottom: none;
+  padding: 12px 0;
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 0.5px;
+}
+
+.site-nav .page-link {
+  color: #ffffff !important;
+}
+
+/* Banner rimando al sito principale */
+.site-banner {
+  background-color: $brand-blue;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.95rem;
+}
+
+.site-banner a {
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.site-banner a:hover {
+  color: #cce0ff;
+}
+
+/* Titoli */
+h1, h2, h3 {
+  color: $brand-dark;
+}
+
+.post-title, .post-title a {
+  color: $brand-blue;
+}
+
+/* Link */
+a {
+  color: $brand-blue;
+}
+
+a:hover {
+  color: darken($brand-blue, 15%);
+}
+
+/* Homepage post list */
+.post-list h3 a {
+  color: $brand-blue;
+  font-weight: 600;
+}
+
+/* Footer */
+.site-footer {
+  background-color: $brand-dark;
+  color: #a0aec0;
+  border-top: none;
+}
+
+.site-footer a {
+  color: #90cdf4;
+}
+
+/* Contenuto */
+.page-content {
+  background-color: #ffffff;
+}
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: $brand-gray;
+}
+
+/* Card articoli */
+.post-list > li {
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 1.2rem;
+  margin-bottom: 1.2rem;
+}
