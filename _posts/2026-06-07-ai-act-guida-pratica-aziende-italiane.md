@@ -45,7 +45,10 @@ Un tema particolarmente rilevante riguarda i sistemi AI usati in ambito cybersec
 ## Conclusione
 
 L'AI Act non è una minaccia ma un'opportunità per le aziende che vogliono costruire fiducia nei confronti di clienti e partner. Iniziare subito con una mappatura dei sistemi AI in uso è il primo passo concreto verso la conformità.
+## Documentazione ufficiale
 
+Per consultare il testo completo e aggiornato del regolamento:
+[Regolamento UE sull'Intelligenza Artificiale - Testo ufficiale](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R1689)
 ---
 
 *Hai domande sull'AI Act o sulla conformità normativa per la tua azienda? Scrivici o continua a seguire il blog per approfondimenti su NIS2, Cyber Resilience Act e le ultime novità sulla regolamentazione digitale europea.*
