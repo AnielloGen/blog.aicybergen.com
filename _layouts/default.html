@@ -1,24 +1,23 @@
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include header.html -%}
-    <style>
-      .site-header .wrapper {
-        display: flex;
-        align-items: center;
-        gap: 12px;
-      }
-      .site-logo {
-        height: 50px;
-        width: auto;
-      }
-    </style>
+  {%- include head.html -%}
 
   <style>
     .site-header {
       background-color: #1a202c !important;
       border-top: 4px solid #1a56a0 !important;
       border-bottom: none !important;
+    }
+    .site-header .wrapper {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .site-logo {
+      height: 45px;
+      width: auto;
     }
     .site-title, .site-title:visited {
       color: #ffffff !important;
@@ -60,7 +59,22 @@
 
   <body>
 
-    {%- include header.html -%}
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="{{ "/" | relative_url }}">
+          <img src="{{ "/logo.png" | relative_url }}" 
+               alt="AiCyberGen Logo" 
+               class="site-logo">
+          {{ site.title }}
+        </a>
+        <nav class="site-nav">
+          <div class="trigger">
+            <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
     {%- include banner.html -%}
 
     <main class="page-content" aria-label="Content">
@@ -73,4 +87,4 @@
 
   </body>
 
-</html><
+</html>
