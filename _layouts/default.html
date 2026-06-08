@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+  {%- include header.html -%}
+    <style>
+      .site-header .wrapper {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+      .site-logo {
+        height: 50px;
+        width: auto;
+      }
+    </style>
 
   <style>
     .site-header {
