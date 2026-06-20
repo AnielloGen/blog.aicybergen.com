@@ -33,7 +33,8 @@ L'**Advisory Forum** è l'organo consultivo generale della Commissione Europea e
 
 La composizione è volutamente plurale: include rappresentanti dell'industria (con attenzione specifica a PMI e startup), del mondo accademico, della società civile. Tra i membri permanenti figurano **ENISA**, l'Agenzia dell'UE per i Diritti Fondamentali (FRA) e gli organismi di standardizzazione europei (CEN, CENELEC, ETSI). I criteri di selezione hanno tenuto conto dell'equilibrio di genere e della diversità geografica.
 
-Avere la possibilità di contribuire ai lavori dell'Advisory Forum significa portare una prospettiva italiana ed europea in un dibattito che definirà le regole del gioco per l'AI in Europa nei prossimi anni.
+L'autore di questo blog ha avuto l'onore di essere stato selezionato per l'Advisory Forum. 
+Avere la possibilità di contribuire ai suoi lavori significa portare una prospettiva italiana ed europea in un dibattito che definirà le regole del gioco per l'AI in Europa nei prossimi anni.
 
 ## Le scadenze aggiornate: un mosaico, non un monolite
 
