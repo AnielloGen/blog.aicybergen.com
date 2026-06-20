@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h2 class="post-list-heading">Articoli recenti</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li class="post-card">
+      <div class="post-card-meta">
+        <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
+        {%- for cat in post.categories -%}
+        <span class="post-badge">{{ cat }}</span>
+        {%- endfor -%}
+        <span class="post-read-time">{{ post.content | number_of_words | divided_by: 200 | plus: 1 }} min di lettura</span>
+      </div>
+      <h3 class="post-card-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h3>
+      {%- if post.description -%}
+      <p class="post-excerpt">{{ post.description }}</p>
+      {%- else -%}
+      <p class="post-excerpt">{{ post.content | strip_html | truncatewords: 40 }}</p>
+      {%- endif -%}
+      <a class="read-more" href="{{ post.url | relative_url }}">Leggi l'articolo →</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+  <p class="rss-subscribe">Iscriviti <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+</div>
