@@ -3,6 +3,7 @@ layout: post
 title: "Alcune considerazioni dopo la vicenda Claude Mythos e Claude Fable: cosa cambia per la cybersecurity aziendale"
 date: 2026-06-16
 description: "Dopo la sospensione di Fable 5 e Mythos 5, una riflessione su come le aziende possono introdurre la scoperta e la remediation di vulnerabilità assistite dall'AI nei propri processi, tra vincoli normativi e nuovi modelli organizzativi."
+categories: [AI, Cybersecurity]
 ---
 
 *Dalla scoperta automatizzata di vulnerabilità alla governance della remediation, nel quadro dell'AI Act europeo*
