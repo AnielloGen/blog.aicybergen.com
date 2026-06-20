@@ -5,7 +5,7 @@ date: 2026-06-09
 categories: [AI, Normativa, Compliance, PMI]
 description: "Dall'istituzione dell'AI Office al nuovo Advisory Forum: lo stato dell'arte dell'AI Act nel 2026, le scadenze aggiornate e l'impatto concreto sulle PMI italiane."
 ---
-
+![AI Act 2026: AI Office, Advisory Forum e le scadenze che le PMI non possono ignorare](/assets/AI-ACT-%202026_Scadenze-PMI_AI_Office-Advisory_Forum_AI_Board.jpg)
 Il 1° giugno 2026 ha segnato una svolta concreta nell'attuazione dell'AI Act europeo: la Commissione Europea ha formalmente nominato il **Scientific Panel** e l'**Advisory Forum**, i due organi che daranno corpo operativo all'enforcement del regolamento. Chi scrive ha avuto il privilegio e l'onore di essere invitato a partecipare ai lavori dell'Advisory Forum — un'esperienza che permette di osservare da vicino la complessità e l'ambizione del progetto regolatorio europeo.
 
 ## L'AI Office: il centro di gravità dell'enforcement
