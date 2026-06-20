@@ -5,7 +5,7 @@ date: 2026-06-16
 description: "Dopo la sospensione di Fable 5 e Mythos 5, una riflessione su come le aziende possono introdurre la scoperta e la remediation di vulnerabilità assistite dall'AI nei propri processi, tra vincoli normativi e nuovi modelli organizzativi."
 categories: [AI, Cybersecurity]
 ---
-![L'evoluzione della sicurezza nelle aziende europee: dall'Era Pre-IA all'Era dell'Intelligenza Artificiale](/assets/evoluzione_cybersecurity_aziende_europee_con_AI.png)
+![L'evoluzione della sicurezza nelle aziende europee: dall'Era Pre-IA all'Era dell'Intelligenza Artificiale](/assets/evoluzione_cybersecurity_aziende_europee_con_AI.jpg)
 *Dalla scoperta automatizzata di vulnerabilità alla governance della remediation, nel quadro dell'AI Act europeo*
 
 Ad aprile 2026 Anthropic ha annunciato Claude Mythos, un modello frontier le cui capacità di cybersecurity si sono rivelate sostanzialmente superiori a quelle di qualsiasi modello precedentemente addestrato dall'azienda. A inizio giugno è arrivata la versione di quinta generazione, distribuita secondo un nuovo schema a due livelli: Claude Mythos 5, riservato a un numero ristretto di partner verificati attraverso Project Glasswing, e Claude Fable 5, la versione generalmente disponibile dello stesso modello, dotata di protezioni che limitano l'accesso alle capacità più sensibili. Per le imprese che si occupano di sicurezza informatica questa distinzione non è solo terminologica: definisce due percorsi di adozione molto diversi, con implicazioni dirette su processi, governance e conformità normativa.
