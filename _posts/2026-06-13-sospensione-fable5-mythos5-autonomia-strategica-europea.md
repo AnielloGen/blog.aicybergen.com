@@ -5,7 +5,7 @@ date: 2026-06-13
 categories: [cybersecurity, ai-policy]
 description: "L'export control USA che ha sospeso globalmente Claude Fable 5 e Mythos 5 apre una nuova dimensione nel dibattito sull'autonomia strategica europea in materia di cybersecurity e AI."
 ---
-
+![Anthropic Mythos e Fable: autonomia strategica europea nella cybersecurity](/assets/anthropic_mythos_fable_autonomia_strategica_europea.jpg)
 Il 12 giugno 2026, tre giorni dopo il lancio di Claude Fable 5 e Claude Mythos 5 — i modelli più capaci mai rilasciati da Anthropic, con prestazioni cyber descritte come "sostanzialmente superiori" a qualsiasi modello precedente — il governo statunitense ha emesso una direttiva di export control che ha costretto Anthropic a sospendere l'accesso a entrambi i modelli a livello globale, per tutti i clienti, senza una timeline di ripristino.
 
 Per chi segue l'AI Act e la governance europea della cybersecurity, questo episodio merita attenzione non tanto per la disputa tecnica che lo ha innescato, quanto per il precedente che stabilisce e per cosa rivela sulla posizione strategica dell'Europa.
