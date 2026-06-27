@@ -9,7 +9,7 @@ description: "La sospensione di Fable 5 e Mythos 5 e la limitazione preventiva d
 
 ---
 
-La tua postura cyber. La loro decisione politica. — Dependency_map_dopo_blocco_GPT_5_6
+La tua postura cyber. La loro decisione politica. — DependencyMapdopobloccogpt56
 
 Ripercorriamo rapidamente i fatti.
 
