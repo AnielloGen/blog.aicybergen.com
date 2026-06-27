@@ -8,7 +8,7 @@ description: "La sospensione di Fable 5 e Mythos 5 e la limitazione preventiva d
 *Una riflessione sulla dipendenza strutturale dell'Europa dall'AI americana, dopo le direttive di export control di giugno 2026*
 
 ---
-
+![La tua postura cyber. La loro decisione politica. — Dependency map dopo il blocco di GPT-5.6](/assets/DependencyMapdopobloccogpt56.jpg)
 
 
 Ripercorriamo rapidamente i fatti.
