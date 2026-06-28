@@ -3,6 +3,7 @@ layout: post
 title: "Il colpo di pistola del 12 giugno: autonomia strategica europea e cybersecurity nell'era dei modelli frontier"
 date: 2026-06-26
 description: "La sospensione di Fable 5 e Mythos 5 e la limitazione preventiva di GPT-5.6 segnano un punto di svolta: l'accesso all'AI di frontiera è oggi uno strumento di politica estera. Per l'Europa, non è più tempo di dibattiti astratti sulla sovranità tecnologica."
+categories: [AI, Cybersecurity, AI-Policy, Autonomia-Strategica]
 ---
 
 *Una riflessione sulla dipendenza strutturale dell'Europa dall'AI americana, dopo le direttive di export control di giugno 2026*
