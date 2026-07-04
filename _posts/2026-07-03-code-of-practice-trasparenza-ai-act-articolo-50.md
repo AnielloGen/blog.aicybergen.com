@@ -42,7 +42,7 @@ Per i deepfake generati prima del 2 agosto, l'etichettatura è incoraggiata — 
 
 L'AI Act distingue i ruoli in base all'**autorità esercitata sul sistema**, non alla natura giuridica del soggetto.
 
-![Chi fa cosa — AI Act Art. 50, scadenze 2 agosto e 2 dicembre 2026](/assets/chi_fa_cosa_art50.jpg)
+![Chi fa cosa — AI Act Art. 50, scadenze 2 agosto e 2 dicembre 2026]({{ site.baseurl }}/assets/chi_fa_cosa_art50.jpg){: .img-fluid .my-4 alt="Infografica Chi fa cosa AI Act Art. 50: ruoli di Provider, Deployer e Piattaforme con le rispettive responsabilità e le scadenze del 2 agosto e 2 dicembre 2026"}
 
 **Provider (Fornitore)** è chi sviluppa un sistema di IA — o lo fa sviluppare — per immetterlo sul mercato sotto il proprio nome o marchio. Rientrano in questa categoria: una software house che rilascia un generatore di immagini o un chatbot tramite API; un'azienda che offre applicazioni di IA generativa a consumatori o utenti professionali; un ente pubblico che ha sviluppato internamente un sistema interattivo e lo mette in servizio con il proprio marchio.
 
@@ -54,7 +54,7 @@ Come mostra l'infografica, la catena di responsabilità non si esaurisce con chi
 
 ## Le soluzioni tecniche: il sistema dual layer
 
-![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026](/assets/dual_layer_art50.jpg)
+![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026]({{ site.baseurl }}/assets/dual_layer_art50.jpg){: .img-fluid .my-4 alt="Infografica Trasparenza a due livelli: metadati firmati e watermarking robusto, con nota su soglia 200 token per il testo e divieto di strumenti humanizer"}
 
 Il Code of Practice definisce per immagini, audio e video un approccio standardizzato a due livelli:
 
