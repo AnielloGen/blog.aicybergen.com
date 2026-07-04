@@ -54,7 +54,7 @@ Come mostra l'infografica, la catena di responsabilità non si esaurisce con chi
 
 ## Le soluzioni tecniche: il sistema dual layer
 
-![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026](/assets/dual_layer_art50.jpg)
+![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026](/assets/dual_layer_art50.jpg).
 
 Il Code of Practice definisce per immagini, audio e video un approccio standardizzato a due livelli:
 
