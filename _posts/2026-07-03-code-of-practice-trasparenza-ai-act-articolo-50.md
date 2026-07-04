@@ -54,7 +54,7 @@ Come mostra l'infografica, la catena di responsabilità non si esaurisce con chi
 
 ## Le soluzioni tecniche: il sistema dual layer
 
-![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026](/assets/dual_layer_art50.jpg).
+
 
 Il Code of Practice definisce per immagini, audio e video un approccio standardizzato a due livelli:
 
@@ -69,6 +69,7 @@ Due punti operativi da tenere a mente:
 
 Sul fronte della detection, i Provider devono fornire soluzioni per rilevare i propri contenuti sintetici — preferibilmente gratuite per il pubblico. Una deroga è prevista per la rilevazione del testo, dove l'accesso pubblico e gratuito può essere limitato in determinati casi tecnici o di sicurezza. Tutte le soluzioni di verifica devono comunque garantire piena conformità al GDPR.
 
+![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026](/assets/dual_layer_art50.jpg).
 ---
 
 ## Il Code of Practice: perché aderire conviene
