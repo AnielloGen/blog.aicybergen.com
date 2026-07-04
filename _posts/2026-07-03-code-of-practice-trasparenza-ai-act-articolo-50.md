@@ -6,8 +6,6 @@ categories: [AI Act, Regolamentazione, Trasparenza]
 description: "L'Articolo 50 dell'AI Act entra in vigore il 2 agosto 2026. Cosa cambia concretamente per provider e deployer di sistemi di IA, qual è il ruolo del Code of Practice e come prepararsi nelle settimane che restano."
 ---
 
-![Chi fa cosa — AI Act Art. 50, scadenze 2 agosto e 2 dicembre 2026]({{ site.baseurl }}/assets/chi_fa_cosa_art50.jpg){: .img-fluid .my-4 alt="Infografica Chi fa cosa AI Act Art. 50: ruoli di Provider, Deployer e Piattaforme con le rispettive responsabilità e le scadenze del 2 agosto e 2 dicembre 2026"}
-
 **Mancano meno di trenta giorni.** Il 2 agosto 2026 l'Articolo 50 dell'AI Act diventa norma vincolante per chiunque sviluppi o utilizzi sistemi di intelligenza artificiale nel mercato europeo. Non si tratta di un adempimento burocratico di routine: è il momento in cui la trasparenza smette di essere un'opzione etica e diventa un requisito legale stringente, con sanzioni che possono arrivare a **15 milioni di euro o al 3% del fatturato annuo globale**.
 
 Questo post è una guida operativa a ciò che serve sapere — e fare — prima che la scadenza arrivi.
@@ -44,6 +42,8 @@ Per i deepfake generati prima del 2 agosto, l'etichettatura è incoraggiata — 
 
 L'AI Act distingue i ruoli in base all'**autorità esercitata sul sistema**, non alla natura giuridica del soggetto.
 
+![Chi fa cosa — AI Act Art. 50, scadenze 2 agosto e 2 dicembre 2026](/assets/chi_fa_cosa_art50.jpg)
+
 **Provider (Fornitore)** è chi sviluppa un sistema di IA — o lo fa sviluppare — per immetterlo sul mercato sotto il proprio nome o marchio. Rientrano in questa categoria: una software house che rilascia un generatore di immagini o un chatbot tramite API; un'azienda che offre applicazioni di IA generativa a consumatori o utenti professionali; un ente pubblico che ha sviluppato internamente un sistema interattivo e lo mette in servizio con il proprio marchio.
 
 **Deployer (Distributore)** è chi utilizza l'IA sotto la propria autorità in un contesto non strettamente personale. L'elemento discriminante è il **controllo decisionale o tecnico**: una società che commissiona a un'agenzia pubblicitaria la produzione di un annuncio, senza esercitare alcun controllo su come l'agenzia usi l'IA nel processo produttivo, non è considerata un deployer.
@@ -53,6 +53,8 @@ Come mostra l'infografica, la catena di responsabilità non si esaurisce con chi
 ---
 
 ## Le soluzioni tecniche: il sistema dual layer
+
+![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026](/assets/dual_layer_art50.jpg)
 
 Il Code of Practice definisce per immagini, audio e video un approccio standardizzato a due livelli:
 
@@ -95,8 +97,6 @@ La lista dei firmatari verrà pubblicata a **luglio 2026**. Per formalizzare l'i
 3. Inviare il modulo compilato esclusivamente all'indirizzo dell'AI Office: [CNECT-AIOFFICE-CODE-OF-PRACTICE-TRANSPARENCY@ec.europa.eu](mailto:CNECT-AIOFFICE-CODE-OF-PRACTICE-TRANSPARENCY@ec.europa.eu)
 
 ---
-
-![Trasparenza a due livelli — Obbligo AI Act Art. 50 dal 2 agosto 2026]({{ site.baseurl }}/assets/dual_layer_art50.jpg){: .img-fluid .my-4 alt="Infografica Trasparenza a due livelli: metadati firmati e watermarking robusto, con nota su soglia 200 token per il testo e divieto di strumenti humanizer"}
 
 ## La prospettiva strategica
 
