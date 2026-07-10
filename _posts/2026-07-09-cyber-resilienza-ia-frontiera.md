@@ -31,8 +31,8 @@ I CSIRT nazionali segnalano tre punti di rottura: il **Negative Time-to-Exploit*
 
 Il piano si articola su tre pilastri operativi:
 
-- **Pillar 1 – IA Sicura e Accessibile**: entro il 2027 sarà operativa una capacità di valutazione UE pre-rilascio per i modelli di frontiera, focalizzata su rischi sistemici e cyber. Il **European Blueprint** per l'accesso strutturato include — non a caso — misure di emergenza per i casi in cui l'accesso a modelli IA a guida straniera venga limitato o revocato bruscamente.
-- **Pillar 2 – Preparazione dell'Ecosistema**: l'infrastruttura EUVD viene aggiornata per gestire la scoperta di vulnerabilità a velocità IA, mentre la **Critical Open Source Resilience Campaign** protegge i manutentori open source dal sovraccarico di segnalazioni.
+- **Pillar 1 – IA Sicura e Accessibile**: entro il 2027 sarà operativa una capacità di valutazione UE pre-rilascio per i modelli di frontiera, focalizzata su rischi sistemici e cyber. L' **European Blueprint** per l'accesso strutturato include — non a caso — misure di emergenza per i casi in cui l'accesso a modelli IA a guida straniera venga limitato o revocato bruscamente.
+- **Pillar 2 – Preparazione dell'Ecosistema**: l'infrastruttura EUVD (European Vulnerability Database) viene aggiornata per gestire la scoperta di vulnerabilità a velocità IA, mentre la **Critical Open Source Resilience Campaign** protegge i manutentori open source dal sovraccarico di segnalazioni.
 - **Pillar 3 – Scaling e Competenze**: nascono la **"EU Grand Challenge"** sulla remediation assistita dall'IA e le **AI Factories**, che sfruttano la capacità di calcolo di EuroHPC per addestrare modelli difensivi europei indipendenti.
 
 ## 4. Risorse e Investimenti: Carburante per la Resilienza
