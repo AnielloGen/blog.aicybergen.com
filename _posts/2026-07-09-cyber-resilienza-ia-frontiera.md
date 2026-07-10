@@ -45,7 +45,7 @@ Sul fronte finanziario: **200 milioni di euro** entro fine MFF tramite Horizon E
 
 La tempistica è serrata: **agosto 2026** vede scattare i poteri di supervisione dell'AI Act sui modelli a rischio sistemico; nel **Q3 2026** l'ENISA pubblica le linee guida sulla protezione da minacce IA; nel **Q4 2026** parte la EU Grand Challenge e viene pubblicato l'European Blueprint; entro il **2027** la capacità di valutazione UE sarà pienamente operativa (inclusi test di sicurezza cyber e biotech); l'**11 dicembre 2027** entra in piena applicazione il Cyber Resilience Act.
 
-![La Torre della Sovranità Cyber Europea: fondamenta normative (AI Act, CRA, NIS2, DORA, Cyber Solidarity Act), Riserva UE di Cybersicurezza e finanziamenti Horizon/Digital Europe, AI Factories su calcolo EuroHPC, piattaforma di test ENISA-JRC, e Blueprint Europeo per l'accesso strutturato all'IA atteso nel Q4 2026, a fronte del rischio di kill-switch imposto da attori extra-UE](/assets/Sovereign-Stack.jpg)
+![La Torre della Sovranità Cyber Europea: fondamenta normative (AI Act, CRA, NIS2, DORA, Cyber Solidarity Act), Riserva UE di Cybersicurezza e finanziamenti Horizon/Digital Europe, AI Factories su calcolo EuroHPC, piattaforma di test ENISA-JRC, e Blueprint Europeo per l'accesso strutturato all'IA atteso nel Q4 2026, a fronte del rischio di kill-switch imposto da attori extra-UE](/assets/Sovereign_Stack.jpg)
 *La Torre della Sovranità Cyber Europea: dalle fondamenta normative alla Riserva UE di Cybersicurezza, dalle AI Factories su EuroHPC al Blueprint Europeo per l'accesso strutturato all'IA — con l'obiettivo dichiarato di ridurre il rischio di "kill-switch" imposto da attori extra-UE.*
 
 ## 6. Impatti Aziendali: Trasformazione dei Processi di Cyber e Acquisti
