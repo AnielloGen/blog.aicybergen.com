@@ -1,10 +1,11 @@
-----
+---
 layout: post
 title: "L'incidente Hugging Face-OpenAI del luglio 2026: un'analisi delle vulnerabilità sistemiche e delle implicazioni geopolitiche dell'IA agentica"
 date: 2026-07-26
 categories: [cybersecurity, intelligenza-artificiale, geopolitica]
 tags: [OpenAI, Hugging Face, Zhipu AI, AI Act, sicurezza-AI, sovranità-tecnologica, agentic-AI]
 ---
+
 
 ## Introduzione
 
