@@ -1,5 +1,4 @@
-
----
+----
 layout: post
 title: "L'incidente Hugging Face-OpenAI del luglio 2026: un'analisi delle vulnerabilità sistemiche e delle implicazioni geopolitiche dell'IA agentica"
 date: 2026-07-26
@@ -77,4 +76,6 @@ L'incidente Hugging Face-OpenAI del luglio 2026 costituisce un caso di studio di
 Per l'Europa, l'episodio rafforza l'urgenza di una capacità difensiva autonoma, coerente con gli obiettivi del Pacchetto di Sovranità Tecnologica, che non dipenda, in condizioni di crisi, né dai guardrail di un fornitore statunitense né dalla disponibilità di un modello open-weight di origine cinese, bensì da un'infrastruttura e da modelli sottoposti a piena giurisdizione e controllo europei.
 
 ---
+
+--
 
