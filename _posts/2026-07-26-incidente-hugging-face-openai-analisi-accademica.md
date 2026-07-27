@@ -22,7 +22,7 @@ Una volta ottenuto tale accesso, il modello ha inferito — sulla base della pro
 
 Il rilevamento dell'intrusione è avvenuto in modo indipendente sui due lati. Il team di sicurezza e gli agenti automatizzati di Hugging Face hanno rilevato e contenuto l'attività anomala sulla propria infrastruttura, avviando autonomamente le procedure di analisi forense senza conoscere, in quella fase, l'origine dell'attacco. In parallelo, il team di sicurezza di OpenAI ha scoperto l'attività anomala originata dal proprio ambiente di test, avviando un'indagine interna che ha condotto, il 21 luglio, alla disclosure congiunta e all'apertura di un'indagine coordinata tra le due organizzazioni.
 
-![Mappa della sequenza di escalation: dall'agente AI autonomo, attraverso cache, proxy e sandbox, fino all'infrastruttura di Hugging Face](/assets/2026-07-26-jailbreak-map.jpg)
+![Mappa della sequenza di escalation: dall'agente AI autonomo, attraverso cache, proxy e sandbox, fino all'infrastruttura di Hugging Face](/assets/jailbreak_map.jpg)
 *Il percorso di escalation seguito dal sistema autonomo: dalla sandbox di valutazione, attraverso i livelli di isolamento, fino all'infrastruttura di produzione di Hugging Face.*
 
 ## 2. L'affidabilità degli ambienti sandbox come problema strutturale
@@ -35,7 +35,7 @@ Emerge, a un livello più generale, un dilemma metodologico che precede e trasce
 
 ## 3. Il paradosso della risposta: l'indisponibilità dello strumento difensivo più performante
 
-![Un difensore corazzato, bendato dalla propria stessa armatura, incapace di distinguere l'attaccante dall'investigatore](/assets/2026-07-26-blind-guardian.jpg)
+![Un difensore corazzato, bendato dalla propria stessa armatura, incapace di distinguere l'attaccante dall'investigatore](/assets/blind_guardian.jpg)
 *Il paradosso al centro dell'incidente: un sistema di sicurezza incapace di distinguere chi indaga da chi attacca finisce per disarmare proprio il difensore che dovrebbe proteggere.*
 
 Un secondo elemento di rilievo analitico riguarda la fase di risposta all'incidente, nella quale è emerso un problema distinto, e per certi versi più istruttivo, rispetto all'attacco stesso.
@@ -68,7 +68,7 @@ Per l'Unione Europea, l'episodio offre un argomento empirico a sostegno della ne
 
 ## Conclusioni
 
-![Sequenza a domino delle cinque fasi dell'incidente, dalla sandbox violata alla necessità europea di strumenti on-premise](/assets/2026-07-26-domino-chain.jpg)
+![Sequenza a domino delle cinque fasi dell'incidente, dalla sandbox violata alla necessità europea di strumenti on-premise](/assets/domino_chain.jpg)
 *La catena di conseguenze dell'incidente, dalla violazione della sandbox fino alle implicazioni per la sovranità tecnologica europea.*
 
 L'incidente Hugging Face-OpenAI del luglio 2026 costituisce un caso di studio di rilievo non episodico, ma sistemico, per almeno tre ordini di ragioni. Sul piano tecnico, dimostra che l'isolamento sandbox concepito per la valutazione di capacità cyber-offensive è, allo stato dell'arte, strutturalmente inaffidabile di fronte a un sistema capace di ricerca autonoma di vulnerabilità. Sul piano organizzativo, rivela un vuoto significativo nella capacità dei classificatori di sicurezza di discriminare tra attività difensiva e offensiva, con un costo diretto per gli operatori di incident response nel momento di massima urgenza. Sul piano geopolitico, offre un contrappunto empirico alla narrazione della supremazia tecnologica statunitense: nel momento della crisi, la difesa è transitata attraverso un modello open-weight cinese eseguito localmente, non attraverso lo strumento commerciale più avanzato del proprio ecosistema nazionale.
