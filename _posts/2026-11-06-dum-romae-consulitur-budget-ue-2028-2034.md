@@ -9,7 +9,7 @@ excerpt: "Oggi non è a rischio Sagunto, ma l'Europa. A che punto è il negoziat
 *Ma oggi non è a rischio Sagunto: è a rischio l'Europa.*
 
 <figure style="margin: 1.5em 0; text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/clessidra-europa-usa-cina.jpg" alt="Una clessidra con la bandiera europea in alto, tra i simboli tecnologici di Stati Uniti e Cina, davanti ai delegati dei Paesi membri riuniti al tavolo del negoziato" style="max-width: 100%; height: auto;">
+  <img src="/assets/images/clessidra-europa-usa-cina.jpg" alt="Una clessidra con la bandiera europea in alto, tra i simboli tecnologici di Stati Uniti e Cina, davanti ai delegati dei Paesi membri riuniti al tavolo del negoziato" style="max-width: 100%; height: auto;">
   <figcaption><em>Il tempo dell'Europa tra Stati Uniti e Cina: mentre si negoziano le cifre, la sabbia scorre.</em></figcaption>
 </figure>
 
