@@ -17,7 +17,7 @@ una matrice comparativa che mostra due cose insieme: **come le tre aree
 interpretano i valori** e **come ciascun modello li racconta**, cioè quanto è
 critico o prudente verso la propria area di provenienza rispetto alle altre.
 
-## La presentazione
+## Questa la relazione completa
 
 <iframe src="https://gamma.app/embed/i571fag7smmlpnd"
         style="width: 700px; max-width: 100%; height: 450px"
